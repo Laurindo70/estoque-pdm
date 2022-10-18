@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Estoque</string>
+    <string name="clientes">Clientes</string>
+    <string name="fonecedores">Fonecedores</string>
+    <string name="produtos">Produtos</string>
+    <string name="sair">Sair</string>
 </resources>
