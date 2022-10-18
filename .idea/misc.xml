@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Ronan/Desktop/Faculdade/Estoque/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Ronan/Desktop/Faculdade/Estoque/app/src/main/res/layout/activity_tela_clientes.xml" value="0.33" />
+        <entry key="..\:/Users/Ronan/Desktop/Faculdade/Estoque/app/src/main/res/layout/fragment_cadastro_clientes.xml" value="0.33" />
       </map>
     </option>
   </component>
